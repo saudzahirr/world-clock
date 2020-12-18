@@ -1,7 +1,5 @@
-//World Clock UCT(Univeersal Coordinated Time) based
-//Muhammad Saud Zahir   (294897)
-//Talha Imran           ()
-//Muhammad Adil Saeed   (291344)
+//World Clock UCT (Universal Coordinated Time)
+//Muhammad Saud Zahir.
 
 #include <stdio.h>
 #include <time.h>
